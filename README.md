@@ -10,5 +10,4 @@
 + 반응형 🚀
 + 깃허브 페이지 
 
-(프로젝트 링크)[https://taek-b.github.io/CAFE25/]
-
+[프로젝트 링크](https://taek-b.github.io/CAFE25/)
