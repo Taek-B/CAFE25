@@ -10,5 +10,6 @@
 + 반응형 🚀
 + 깃허브 페이지
 + Git clone으로 수업시간에 추가한 내용 push
++ 깃허브에서 수정1
 
 [프로젝트 링크](https://taek-b.github.io/CAFE25/)
