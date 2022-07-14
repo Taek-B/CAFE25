@@ -11,3 +11,5 @@
 + 깃허브 페이지 
 
 [프로젝트 링크](https://taek-b.github.io/CAFE25/)
+
++ Git clone으로 수업시간에 추가한 내용 push
